@@ -1,0 +1,2 @@
+# PriceFatcher
+Tickers price finder
