@@ -28,4 +28,5 @@ rm -rf [folder_name] # Recursively delete all files in a folder
 subl . # Open sublime to the current directory 
 command Z = undo change
 command + shift Z = redo change
+git log = see all the commits
 ```
